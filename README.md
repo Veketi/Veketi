@@ -7,17 +7,10 @@
     <img width="400px" src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,react,nodejs,bun,git,linux,docker&theme=dark" />
 </div>
 
-<div align="center">
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=veketi&theme=midnight-purple&hide_border=true&card_height=170&background=EB545400)](https://git.io/streak-stats)
+![Top Languages](./profile/top-langs.svg)
 
-    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=veketi&theme=midnight-purple&hide_border=true&card_height=170&background=EB545400)](https://git.io/streak-stats)
-
-    ![Top Languages](./profile/top-langs.svg)
-
-</div>
+<br/>
 
 
-<div align="center">
-
-    ![Stats](./profile/stats.svg)
-
-</div>
+![Stats](./profile/stats.svg)
