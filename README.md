@@ -3,14 +3,16 @@
     <br/>
     I'm a passionate developer!
 </div>
-<div align="center">
-    <img width="400px" src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,react,nodejs,bun,git,linux,docker&theme=dark" />
-</div>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=veketi&theme=midnight-purple&hide_border=true&card_height=170&background=EB545400)](https://git.io/streak-stats)
-![Top Languages](./profile/top-langs.svg)
-
 <br/>
-
-
-![Stats](./profile/stats.svg)
+<br/>
+<div align="center" style="display: inline_block">
+    <img width="400" src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,react,nodejs,bun,git,linux,docker&theme=dark" />
+</div>
+<div align="center">
+    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=veketi&theme=midnight-purple&hide_border=true&card_height=170&background=EB545400)](https://git.io/streak-stats">
+    <img src="./profile/top-langs.svg">
+</div>
+<br/>
+<div align="center">
+    <img src="./profile/stats.svg">
+</div>
